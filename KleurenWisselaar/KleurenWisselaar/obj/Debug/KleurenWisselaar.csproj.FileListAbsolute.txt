@@ -1,0 +1,9 @@
+C:\Users\Robin\source\repos\KleurenWisselaar\KleurenWisselaar\bin\Debug\KleurenWisselaar.exe.config
+C:\Users\Robin\source\repos\KleurenWisselaar\KleurenWisselaar\bin\Debug\KleurenWisselaar.exe
+C:\Users\Robin\source\repos\KleurenWisselaar\KleurenWisselaar\bin\Debug\KleurenWisselaar.pdb
+C:\Users\Robin\source\repos\KleurenWisselaar\KleurenWisselaar\obj\Debug\KleurenWisselaar.csprojAssemblyReference.cache
+C:\Users\Robin\source\repos\KleurenWisselaar\KleurenWisselaar\obj\Debug\KleurenWisselaar.Form1.resources
+C:\Users\Robin\source\repos\KleurenWisselaar\KleurenWisselaar\obj\Debug\KleurenWisselaar.Properties.Resources.resources
+C:\Users\Robin\source\repos\KleurenWisselaar\KleurenWisselaar\obj\Debug\KleurenWisselaar.csproj.GenerateResource.cache
+C:\Users\Robin\source\repos\KleurenWisselaar\KleurenWisselaar\obj\Debug\KleurenWisselaar.exe
+C:\Users\Robin\source\repos\KleurenWisselaar\KleurenWisselaar\obj\Debug\KleurenWisselaar.pdb

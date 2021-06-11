@@ -1,0 +1,9 @@
+C:\Users\Robin\source\repos\h8_methods\h8_methods\bin\Debug\h8_methods.exe.config
+C:\Users\Robin\source\repos\h8_methods\h8_methods\bin\Debug\h8_methods.exe
+C:\Users\Robin\source\repos\h8_methods\h8_methods\bin\Debug\h8_methods.pdb
+C:\Users\Robin\source\repos\h8_methods\h8_methods\obj\Debug\h8_methods.csprojAssemblyReference.cache
+C:\Users\Robin\source\repos\h8_methods\h8_methods\obj\Debug\h8_methods.Form1.resources
+C:\Users\Robin\source\repos\h8_methods\h8_methods\obj\Debug\h8_methods.Properties.Resources.resources
+C:\Users\Robin\source\repos\h8_methods\h8_methods\obj\Debug\h8_methods.csproj.GenerateResource.cache
+C:\Users\Robin\source\repos\h8_methods\h8_methods\obj\Debug\h8_methods.exe
+C:\Users\Robin\source\repos\h8_methods\h8_methods\obj\Debug\h8_methods.pdb
